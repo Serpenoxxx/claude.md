@@ -19,8 +19,8 @@ Loads automatically into every Claude Code session and shapes how Claude behaves
     Autofires two Superpowers skills at the right moments. It prevents guessed fixes without root cause, completion claims without evidence
    
 Section 5 automatically invokes:
-superpowers:systematic-debugging — triggered on any bug, test failure, or unexpected behavior. No fix is proposed until root cause is established.
-superpowers:verification-before-completion — triggered before any claim of "done", "fixed", or "passing". Requires running the actual verification command and showing output.
+- superpowers:systematic-debugging — triggered on any bug, test failure, or unexpected behavior. No fix is proposed until root cause is established.
+- superpowers:verification-before-completion — triggered before any claim of "done", "fixed", or "passing". Requires running the actual verification command and showing output.
 
 ## Who it's for
 Solo developers or small teams who:
